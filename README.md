@@ -26,30 +26,24 @@ To get started with this project, please follow these steps:
 2. Clone this repository:
     
     ```
-    shell
-    
+    git clone https://github.com/ahmedkltn/image-classification.git
     ```
     
-- `git clone https://github.com/ahmedkltn/image-classification.git`
 - Set up the virtual environment (recommended):
     
     ```
-    shell
-    
+    python -m venv env
+    source env/bin/activate # For Linux/Mac
+    .\env\Scripts\activate # For Windows
     ```
     
-- `python -m venv env
-source env/bin/activate # For Linux/Mac
-.\env\Scripts\activate # For Windows`
 - Install the project dependencies:
     
     ```
-    shell
-    
+    pip install -r requirements.txt
     ```
     
-1. `pip install -r requirements.txt`
-2. Run the `clear_dirty_street.ipynb` Jupyter Notebook to train the image classification model and evaluate its performance.
+1. Run the `clear_dirty_street.ipynb` Jupyter Notebook to train the image classification model and evaluate its performance.
 
 ## Results and Further Customization
 
