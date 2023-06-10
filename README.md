@@ -26,7 +26,7 @@ To get started with this project, please follow these steps:
 2. Clone this repository:
     
     ```
-    git clone https://github.com/ahmedkltn/image-classification.git
+    git clone https://github.com/ahmedkltn/VGG16-CleanDirtyRoads.git
     ```
     
 - Set up the virtual environment (recommended):
