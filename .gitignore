@@ -1,0 +1,16 @@
+# .gitignore
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore image files in the Images directory
+images/
+
+# Ignore the compiled Python files
+*.pyc
+
+# Ignore the virtual environment directory
+venv/
+
+# Ignore any log files
+*.log
